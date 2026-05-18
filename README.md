@@ -1,4 +1,4 @@
-# arima-indian-market
+# ARIMA INDIAN MARKET
 
 > A research project. Can classical ARIMA-family models — used the way every
 > textbook teaches them — predict Indian intraday equity markets?
